@@ -1,5 +1,5 @@
 
-# GMF Investments Portfolio Optimization Forecasting
+# GMF Investments Portfolio Optimization and Forecasting
 
 ## Overview
 This project leverages time series forecasting models to enhance portfolio management strategies for **Guide Me in Finance (GMF) Investments**. Using historical data for key financial assets—Tesla (TSLA), Vanguard Total Bond Market ETF (BND), and S&P 500 ETF (SPY)—we aim to forecast market trends, optimize asset allocation, and manage risk. By incorporating ARIMA, SARIMA, and LSTM models, this project enables GMF Investments to offer clients data-driven investment recommendations.
